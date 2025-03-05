@@ -12,6 +12,20 @@ Device maintainer: Kleidione Freitas
 
 =============================
 
+===== 04 Octuber 2025 =====
+
+- Updated blobs from OS2.0.203.0.VNRMIXM
+- Fixed FP HBM staying on for goodix
+- Fixed alerts not playing on phone with BT connected
+- Fixed AGPS
+- Kang dolby audio stack from YUDI_OS1.0.2.0.UMHCNXM
+- Kernel Upstream V5.10.240
+- Add stock GoogleCamera GO
+- Stuff and things 
+
+Obs:
+Clean flash required!
+
 Note:
 * Use the latest global firmware
 * OTA Update works
