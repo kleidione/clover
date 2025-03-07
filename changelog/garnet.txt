@@ -3,14 +3,11 @@ Build type: Stable
 Device: Redmi Note 13 Pro 5G / Poco X6 5G
 Device maintainer: Kleidione Freitas
 
-===== 30 September 2025 =====
+===== 07 Octuber 2025 =====
 
-* Improved UI recovery
-* Add logic for mapping unknown tiles
-* Update translation pt-BR
-* Bump KernelSU-Next v1.1.1
-
-=============================
+- Back miuicamera
+- Fix sepolicy denial
+- Improved C2 media service startup
 
 ===== 04 Octuber 2025 =====
 
@@ -22,6 +19,15 @@ Device maintainer: Kleidione Freitas
 - Kernel Upstream V5.10.240
 - Add stock GoogleCamera GO
 - Stuff and things 
+
+===== 30 September 2025 =====
+
+* Improved UI recovery
+* Add logic for mapping unknown tiles
+* Update translation pt-BR
+* Bump KernelSU-Next v1.1.1
+
+=============================
 
 Obs:
 Clean flash required!
