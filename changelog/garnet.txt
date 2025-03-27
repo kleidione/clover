@@ -1,0 +1,17 @@
+Highlights & Device Specific Changes:
+Build type: Stable
+Device: Redmi Note 13 Pro 5G / Poco X6 5G
+Device maintainer: Kleidione
+
+===== 27 Set 2025 =====
+
+* Initial Build
+
+=======================
+
+Note:
+* Use the latest global firmware
+* MIUI Camera will always be included
+* Dolby Atmos will always be included
+* KernelSU-Next + SusFS support will always be included
+* Do not use a custom kernel
