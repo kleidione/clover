@@ -1,3 +1,10 @@
-===== 22 Nov 2025 =====
+===== 24 Nov 2025 =====
 
-* Initial BP3A ( Android 16 QPR1) Release
+• Initial BP3A (Android 16 QPR1) release
+• Added OTA update support
+• Removed Play Now (only works on Pixel devices)
+• Fixed Google battery widget
+• Applied Clover Project green theme to recovery UI elements
+• Fixed maintainer flag not showing full name
+• Fixed Screen-Off UDFPS
+• Enabled display HDR support
