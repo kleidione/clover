@@ -1,5 +1,7 @@
-===== 25 Nov 2025 =====
+===== 28 Nov 2025 =====
 
-• Added live effect wallpaper studio
-• Added ColumbuServices
-• Drop power button torch for now
+* Updated blobs to OS2.0.205.0.VNRMIXM
+* Fixed an issue where the carrier text did not follow the switch between light and dark themes
+* Removed redundant props
+* Use Google Sans Flex for the lockscreen clock
+* Improved system stability by clearing old cache automatically during upgrades
