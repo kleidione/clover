@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1764967019,
-      "filename": "CloverProject-v3.5-garnet-COMMUNITY-20251205-2044.zip",
-      "id": "590a246e139a6bd5c42594553ef7accb7227ecd3774f101c7cdf23d51dcaae17",
-      "md5": "5f885ef2cd4a2ce4faaae6c42fbfedc5",
-      "size": 2648912507,
-      "url": "https://sourceforge.net/projects/garnet-files/files/clover/CloverProject-v3.5-garnet-COMMUNITY-20251205-2044.zip/download",
+      "datetime": 1765234185,
+      "filename": "CloverProject-v3.5-garnet-COMMUNITY-20251208-2256.zip",
+      "id": "dfd60e70fc213b33d4e287b3eb37c5837011fd625c7232cc8ac4ffed9fdc25d8",
+      "md5": "444bb6758588d48ce06d6b36fb78ad85",
+      "size": 2649391364,
+      "url": "https://sourceforge.net/projects/garnet-files/files/clover/CloverProject-v3.5-garnet-COMMUNITY-20251208-2256.zip/download",
       "version": "3.5"
     }
   ]
